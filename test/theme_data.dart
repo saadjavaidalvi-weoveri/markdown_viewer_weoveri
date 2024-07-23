@@ -32,5 +32,11 @@ final themeData = ThemeData(
       fontSize: 14.0,
       color: Color(0xdd000000),
     ),
+    bodyText2: TextStyle(
+      fontFamily: '.SF UI Text',
+      fontWeight: FontWeight.w400,
+      fontSize: 14.0,
+      color: Color(0xdd000000),
+    ),
   ),
 );
